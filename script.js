@@ -12,7 +12,7 @@
     const gameAreaRect = gameArea.getBoundingClientRect();
 
     // Скорость игрока и противника
-    let playerSpeed = 10;
+    let playerSpeed = 5;
     let enemySpeed = 2;
 
     // Создание препятствия
